@@ -18,7 +18,7 @@ Als erstes habe ich ein Array definiert und mit verschiedenen Strings bestückt.
 Mit der ForEach-Schleife sage ich nun, dass ich den Inhalt der Schleife für jedes Element in dem Array ausführen möchte.
 In diesem Beispiel schreibe ich das Element in die Konsole.
 
-```ps
+```powershell
 $objects = @('Stuhl', 'Tisch', 'Vase', 'Pflanze', 'Ofen', 'Kochtopf')
 
 ForEach ($item in $objects) {
