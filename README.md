@@ -36,7 +36,7 @@ Alternativ können Sie auch die PowerShell Applikation auf Ihrem Rechner öffnen
 
 # Benötigte Berechtigungen & Clients
 
-Um das Skript auszuführen sind ggf. zusätzliche Berechtigungen notwendig. Überprüfen Sie, dass Sie Ihre PowerShell ExecutionPolicy so eingestellt haben, dass das Ausführen von Skripts auf Ihrem Gerät erlaubt ist. Mehr über die ExecutionPolicy von PowerShell 5.1 erfahren sie [hier](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-5.1)
+Um das Skript auszuführen sind ggf. zusätzliche Berechtigungen notwendig. Überprüfen Sie, dass Sie Ihre PowerShell ExecutionPolicy so eingestellt haben, dass das Ausführen von Skripts auf Ihrem Gerät erlaubt ist. Mehr über die ExecutionPolicy von PowerShell 5.1 erfahren sie [hier](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-5.1).
 Das Skript kann auf verschiedenen Clients gleichzeitig ausgeführt werden, benötigt aber nur ein Gerät um ausgeführt zu werden.
 
 
