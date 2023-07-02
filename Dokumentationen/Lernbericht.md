@@ -14,7 +14,7 @@ In diesem Projekt habe ich gelernt, wie man die ForEach-Schleife benutzt.
 
 ## Code-Erklärung
 
-Als erstes habe ich ein Array definiert und mit verschiedenen Strings bestückt.
+Als Erstes habe ich ein Array definiert und mit verschiedenen Strings bestückt.
 Mit der ForEach-Schleife sage ich nun, dass ich den Inhalt der Schleife für jedes Element in dem Array ausführen möchte.
 In diesem Beispiel schreibe ich das Element in die Konsole.
 
