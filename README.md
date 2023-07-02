@@ -4,7 +4,7 @@
 
 **Gruppenmitglieder:** Marek von Rogall
 
-#Einleitung#
+#Einleitung
 
 Dieses Skript ermöglicht es mithilfe von [ffmpeg]([https://github.com/FFmpeg/FFmpeg]) massenweise Video-, Bild- & Audiodateien zu konvertieren.
 Dazu gibt der Benutzer 
