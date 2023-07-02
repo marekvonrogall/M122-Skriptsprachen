@@ -27,7 +27,7 @@ ForEach ($item in $objects) {
 
 Pause
 ```
-*Dieser Code beinhaltet die oben beschriebenen Schritte um eine ForEach Schleife zu benutzen.*
+*Dieser Code beinhaltet die oben beschriebenen Schritte, um eine ForEach Schleife zu benutzen.*
 
 ![PowerShellAusgabe__LBM122](https://github.com/marekvonrogall/M122-Skriptsprachen/assets/110893394/dd2fb4d7-e62d-4bb4-bcb7-bb233dd85b9c)
 
